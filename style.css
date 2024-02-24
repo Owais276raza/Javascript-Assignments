@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.pp{
+display: flex;
+justify-content: center;
+padding-top: 50px;
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: underline;
+
+
+}
+.jj button{
+    border: 2px solid whitesmoke;
+border-radius: 20px;
+ padding:  13px;
+background-color: yellow;
+
+
+}
+.as{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.jj button a{
+    text-decoration: none;
+}
